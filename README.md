@@ -10,4 +10,5 @@
 - ⚡ Fun fact: I love to explore the world.
 - ✨ My Portfolio https://mainul-portfolio.web.app/
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Mainul-Fahim/Mainul-Fahim)
 
