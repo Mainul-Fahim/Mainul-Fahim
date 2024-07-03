@@ -25,8 +25,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Ant_Design_Logo.svg" alt="Ant Design" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Material_UI_Logo.svg" alt="Material-UI" width="50" height="50"/>
 </p>
 
 
