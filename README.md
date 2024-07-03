@@ -10,5 +10,23 @@
 - ⚡ Fun fact: I love to explore the world.
 - ✨ My Portfolio https://mainul-portfolio.web.app/
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Mainul-Fahim/Mainul-Fahim)
+- https://img.shields.io/github/commit-activity/y/Mainul-Fahim/Mainul-Fahim
+  
+# Technologies I Work With
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Ant_Design_Logo.svg" alt="Ant Design" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Material_UI_Logo.svg" alt="Material-UI" width="50" height="50"/>
+</p>
+
 
