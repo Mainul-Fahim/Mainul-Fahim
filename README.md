@@ -12,9 +12,9 @@
 
 - https://img.shields.io/github/commit-activity/y/Mainul-Fahim/Mainul-Fahim
   
-# Technologies I Work With
+## Technologies I Work With
 
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="50" height="50"/>
@@ -25,7 +25,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Ant_Design_Logo.svg" alt="Ant Design" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Material_UI_Logo.svg" alt="Material-UI" width="50" height="50"/>
 </p>
+
 
 <details>
 <summary>Click for GitHub Stats</summary>
