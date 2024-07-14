@@ -3,6 +3,9 @@
 # 💫 About Me:
 💻 I'm passionate about solving real life problems through codes.<br>👀 I’m interested in React React Native Next js Node Express MongoDB SciKit Learn Keras Tensorflow Pandas Aws.<br>🌱 I’m currently learning React Storybook.<br>💞️ I’m looking to collaborate on Full Stack Web development & Deep Learning.<br>💬 Ask me about Front End Technologies & Deep Learning.<br>📫 How to reach me mainulfahimnegetive@gmail.com<br>🥅 2024 Goals: Contribute more to Open Source projects.<br>⚡ Fun fact: I love to explore the world.<br>✨ My Portfolio https://mainul-portfolio.web.app/
 
+ <div id="omuk" align="center">
+      <img src="https://komarev.com/ghpvc/?username=mainul-fahim&style=flat-square&color=blue" alt=""/>
+  </div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mainul-islam-fahim/) 
@@ -17,4 +20,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mainul-fahim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
