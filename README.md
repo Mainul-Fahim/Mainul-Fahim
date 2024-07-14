@@ -1,4 +1,4 @@
-![Alt text](https://ibb.co/xSPS89Z/mainul-fahim.jpg)
+<img src="https://i.ibb.co/4Z9Zgvk/githhb-banner.jpg" alt="githhb-banner" border="0" />
 
 # Hi 👋, there! I am Mainul Islam Fahim.
 # Nice to meet you! 😀
