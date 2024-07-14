@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/4Z9Zgvk/githhb-banner.jpg" alt="githhb-banner" border="0" height="300px" width="300px"/>
+<img src="https://i.ibb.co/4Z9Zgvk/githhb-banner.jpg" alt="githhb-banner" border="0" height="300px" />
 
 # Hi 👋, there! I am Mainul Islam Fahim.
 # Nice to meet you! 😀
