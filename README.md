@@ -5,7 +5,7 @@
 # Hi 👋, there! I am Mainul Islam Fahim.
 # Nice to meet you! 😀
 # 💫 About Me:
-💻 I'm passionate about solving real life problems through codes.<br>👀 I’m interested in React React Native Next js Node Express MongoDB SciKit Learn Keras Tensorflow Pandas Aws.<br>🌱 I’m currently learning React Storybook.<br>💞️ I’m looking to collaborate on Full Stack Web development & Deep Learning.<br>💬 Ask me about Front End Technologies & Deep Learning.<br>📫 How to reach me mainulfahimnegetive@gmail.com<br>🥅 2024 Goals: Contribute more to Open Source projects.<br>⚡ Fun fact: I love to explore the world.<br>✨ My Portfolio https://mainul-portfolio.web.app/
+💻 I'm passionate about solving real life problems through codes.<br>👀 I’m interested in React React Native Next js Node Express MongoDB SciKit Learn Keras Tensorflow Pandas Aws.<br>🌱 I’m currently learning React Storybook.<br>💞️ I’m looking to collaborate on Full Stack Web development & Deep Learning.<br>💬 Ask me about Front End Technologies & Deep Learning.<br>📫 How to reach me mainulfahimnegetive@gmail.com<br>⚡ Fun fact: I love to explore the world.<br>✨ My Portfolio https://mainul-portfolio.web.app/
 
 
 ## 🌐 Socials:
